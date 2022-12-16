@@ -23,7 +23,7 @@ All of the files for the project are on the left-hand side. Here's a quick glimp
 
 Before you start, you'll need to [create a Discord app](https://discord.com/developers/applications) with the `bot` scope
 
-Configuring the app is covered in detail in the [tutorial]().
+Configuring the app is covered in detail in the [tutorial](https://github.com/jadnast/discord-linked-roles/wiki/Configuring-App-Metadata-for-Linked-Roles).
 
 ### Setup project
 
