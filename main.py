@@ -74,4 +74,4 @@ def update_metadata(user_id):
 
 # Normal launch of Flask application
 if __name__ == '__main__':
-    app.run(port='80',debug=True) # if you want to change port, host.. You can do it this!
+    app.run() # if you want to change port, host.. You can do it this! - port='80',debug=True
