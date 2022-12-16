@@ -1,4 +1,4 @@
-# NOW DON'T WORK - NOW WE ONLY CREATE
+> ❇️ This version is running successfully. If you need help, please [contact us](https://discord.gg/KHyUgCJYYK) :)
 
 # Linked Roles
 This repository is the non official discord repository rewritten for python, for a linked role bot.
