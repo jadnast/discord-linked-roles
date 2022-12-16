@@ -8,12 +8,13 @@ This repository is the non official discord repository rewritten for python, for
 All of the files for the project are on the left-hand side. Here's a quick glimpse at the structure:
 
 ```
+├── images -> Images for documentation
 ├── modules
 │   ├── discord.py  -> Discord specific auth & API wrapper
-│   ├── register.py -> Tool to register the metadata schema
 │   ├── storage.py  -> Provider for storing OAuth2 tokens
 ├── config.py  -> Parsing of local configuration
 ├── main.py  -> Main entry point for the application
+├── register.py  -> Tool to register the metadata schema
 ├── requirements.txt  -> All libraries you need to install
 └── README.md
 ```
@@ -22,7 +23,7 @@ All of the files for the project are on the left-hand side. Here's a quick glimp
 
 Before you start, you'll need to [create a Discord app](https://discord.com/developers/applications) with the `bot` scope
 
-Configuring the app is covered in detail in the [tutorial](https://discord.com/developers/docs/tutorials/configuring-app-metadata-for-linked-roles).
+Configuring the app is covered in detail in the [tutorial]().
 
 ### Setup project
 
@@ -67,3 +68,4 @@ And, just once, you need to register you connection metadata schema. In a new wi
 
 ```
 python register.py
+```
